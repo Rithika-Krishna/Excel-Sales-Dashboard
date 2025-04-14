@@ -22,3 +22,5 @@ This mini-project analyzes employee and regional sales performance using Microso
 4. **IT Employee Hansi** showed no sales — requires review.
 
 ![Screenshot 2025-04-08 185345](https://github.com/user-attachments/assets/e269d0ff-d731-4e8d-82e2-a49981d66132)
+![Screenshot 2025-04-10 152336](https://github.com/user-attachments/assets/aef263b6-9ad5-409e-8bd8-9ab7e51f557e)
+![Screenshot 2025-04-10 152343](https://github.com/user-attachments/assets/5a5cd077-d81a-44c0-952a-ef84bd48ddd8)
