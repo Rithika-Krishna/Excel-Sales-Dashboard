@@ -21,10 +21,4 @@ This mini-project analyzes employee and regional sales performance using Microso
 3. **Top Performer:** Lisa with ₹2,90,000 sales.
 4. **IT Employee Hansi** showed no sales — requires review.
 
-## 📂 Files Included
-- `SalesDashboard.xlsx`
-- Screenshots of Charts
-- Insights Summary
-
-## ✨ Author
-C.Rithika | Aspiring Data Analyst | 2025
+![Screenshot 2025-04-08 185345](https://github.com/user-attachments/assets/e269d0ff-d731-4e8d-82e2-a49981d66132)
